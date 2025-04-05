@@ -1,0 +1,269 @@
+Category ID,Category Description,Field ID,Field Description
+100032,Reaction time,20023,Mean time to correctly identify matches
+100032,Reaction time,401,Index for card A in round
+100032,Reaction time,10139,Index for card A in round (pilot)
+100032,Reaction time,402,Index for card B in round
+100032,Reaction time,10140,Index for card B in round (pilot)
+100032,Reaction time,403,Number of times snap-button pressed
+100032,Reaction time,10141,Number of times snap-button pressed (pilot)
+100032,Reaction time,404,Duration to first press of snap-button in each round
+100032,Reaction time,10147,Duration to first press of snap-button in each round (pilot)
+100029,Numeric memory,4281,Completion status of numeric memory test
+100029,Numeric memory,4283,Number of rounds of numeric memory test performed
+100029,Numeric memory,4260,Round of numeric memory test
+100029,Numeric memory,4250,Number of digits to be memorised/recalled
+100029,Numeric memory,4251,Target number to be memorised
+100029,Numeric memory,4252,Target number to be entered
+100029,Numeric memory,4258,Number entered by participant
+100029,Numeric memory,4253,Time number displayed for
+100029,Numeric memory,4259,Digits entered correctly
+100029,Numeric memory,4282,Maximum digits remembered correctly
+100029,Numeric memory,4254,Time first key touched
+100029,Numeric memory,4255,Time last key touched
+100029,Numeric memory,4256,Time elapsed
+100029,Numeric memory,4257,Keystroke history
+100029,Numeric memory,4285,Time to complete test
+100027,Fluid intelligence / reasoning,20016,Fluid intelligence score
+100027,Fluid intelligence / reasoning,20128,Number of fluid intelligence questions attempted within time limit
+100027,Fluid intelligence / reasoning,4924,Attempted fluid intelligence (FI) test.
+100027,Fluid intelligence / reasoning,4935,FI1 : numeric addition test
+100027,Fluid intelligence / reasoning,4946,FI2 : identify largest number
+100027,Fluid intelligence / reasoning,4957,FI3 : word interpolation
+100027,Fluid intelligence / reasoning,4968,FI4 : positional arithmetic
+100027,Fluid intelligence / reasoning,4979,FI5 : family relationship calculation
+100027,Fluid intelligence / reasoning,4990,FI6 : conditional arithmetic
+100027,Fluid intelligence / reasoning,5001,FI7 : synonym
+100027,Fluid intelligence / reasoning,5012,FI8 : chained arithmetic
+100027,Fluid intelligence / reasoning,5556,FI9 : concept interpolation
+100027,Fluid intelligence / reasoning,5699,FI10 : arithmetic sequence recognition
+100027,Fluid intelligence / reasoning,5779,FI11 : antonym
+100027,Fluid intelligence / reasoning,5790,FI12 : square sequence recognition
+100027,Fluid intelligence / reasoning,5866,FI13 : subset inclusion logic
+100027,Fluid intelligence / reasoning,4936,FI1 : duration viewed
+100027,Fluid intelligence / reasoning,4947,FI2 : duration viewed
+100027,Fluid intelligence / reasoning,4958,FI3 : duration viewed
+100027,Fluid intelligence / reasoning,4969,FI4 : duration viewed
+100027,Fluid intelligence / reasoning,4980,FI5 : duration viewed
+100027,Fluid intelligence / reasoning,4991,FI6 : duration viewed
+100027,Fluid intelligence / reasoning,5002,FI7 : duration viewed
+100027,Fluid intelligence / reasoning,5013,FI8 : duration viewed
+100027,Fluid intelligence / reasoning,5557,FI9 : duration viewed
+100027,Fluid intelligence / reasoning,5700,FI10 : duration viewed
+100027,Fluid intelligence / reasoning,5780,FI11 : duration viewed
+100027,Fluid intelligence / reasoning,5791,FI12 : duration viewed
+100027,Fluid intelligence / reasoning,5867,FI13 : duration viewed
+505,Trail making,6348,Duration to complete numeric path (trail #1)
+505,Trail making,6350,Duration to complete alphanumeric path (trail #2)
+505,Trail making,6349,Total errors traversing numeric path (trail #1)
+505,Trail making,6351,Total errors traversing alphanumeric path (trail #2)
+505,Trail making,6772,Interval between previous point and current one in numeric path (trail #1)
+505,Trail making,6773,Interval between previous point and current one in alphanumeric path (trail #2)
+505,Trail making,6770,Errors before selecting correct item in numeric path (trail #1)
+505,Trail making,6771,Errors before selecting correct item in alphanumeric path (trail #2)
+501,Matrix pattern completion,6373,Number of puzzles correctly solved
+501,Matrix pattern completion,6374,Number of puzzles viewed
+501,Matrix pattern completion,6332,Item selected for each puzzle
+501,Matrix pattern completion,6333,Duration spent answering each puzzle
+502,Symbol digit substitution,6325,Duration to entering symbol choice
+502,Symbol digit substitution,23323,Number of symbol digit matches attempted
+502,Symbol digit substitution,23324,Number of symbol digit matches made correctly
+502,Symbol digit substitution,6362,First code array presented
+502,Symbol digit substitution,23321,Values wanted
+502,Symbol digit substitution,23322,Values entered
+1358,Broken letter recognition,20139,Number of letters correctly identified
+1358,Broken letter recognition,20141,Position of first letter not identified
+1358,Broken letter recognition,7677,Reason test concluded
+1358,Broken letter recognition,7670,Letter displayed to participant
+1358,Broken letter recognition,7671,Letter selected by participant
+1358,Broken letter recognition,7678,Total duration of test
+1358,Broken letter recognition,7673,Duration between presenting an image and participant making selection
+1358,Broken letter recognition,7674,Duration between presenting an image and participant pressing Next button
+1358,Broken letter recognition,7672,History of actions performed
+1358,Broken letter recognition,7669,Image displayed
+1358,Broken letter recognition,7676,Number of letters displayed
+504,Picture vocabulary,26302,Specific cognitive ability (AS)
+504,Picture vocabulary,26306,Response delay interval
+504,Picture vocabulary,6364,Vocabulary level
+504,Picture vocabulary,6365,Uncertainty in vocabulary level
+504,Picture vocabulary,6314,Word/picture group used for each round
+504,Picture vocabulary,6315,Picture selected for each round
+504,Picture vocabulary,6317,Duration of selection in each round
+503,Tower rearranging,21004,Number of puzzles correct
+503,Tower rearranging,6383,Number of puzzles attempted
+503,Tower rearranging,6312,Value entered
+503,Tower rearranging,6313,Duration to entering selection
+506,Paired associate learning,20197,Number of word pairs correctly associated
+506,Paired associate learning,6448,"Word associated with ""huge"""
+506,Paired associate learning,6459,"Word associated with ""happy"""
+506,Paired associate learning,6470,"Word associated with ""tattered"""
+506,Paired associate learning,6481,"Word associated with ""old"""
+506,Paired associate learning,6492,"Word associated with ""long"""
+506,Paired associate learning,6503,"Word associated with ""red"""
+506,Paired associate learning,6514,"Word associated with ""sulking"""
+506,Paired associate learning,6525,"Word associated with ""pretty"""
+506,Paired associate learning,6536,"Word associated with ""tiny"""
+506,Paired associate learning,6547,"Word associated with ""new"""
+100031,Prospective memory,20018,Prospective memory result
+100031,Prospective memory,4287,Test completion status
+100031,Prospective memory,4292,PM: initial answer
+100031,Prospective memory,4293,PM: final answer
+100031,Prospective memory,4294,Final attempt correct
+100031,Prospective memory,4291,Number of attempts
+100031,Prospective memory,4295,History of attempts
+100031,Prospective memory,4290,Duration screen displayed
+100031,Prospective memory,4286,Time when initial screen shown
+100031,Prospective memory,4288,Time to answer
+100031,Prospective memory,4289,Time screen exited
+100030,Pairs matching,399,Number of incorrect matches in round
+100030,Pairs matching,10137,Number of incorrect matches in round (pilot)
+100030,Pairs matching,400,Time to complete round
+100030,Pairs matching,10138,Time to complete round (pilot)
+100030,Pairs matching,6334,Screen layout
+100030,Pairs matching,396,Number of columns displayed in round
+100030,Pairs matching,10133,Number of columns displayed in round (pilot)
+100030,Pairs matching,397,Number of rows displayed in round
+100030,Pairs matching,10134,Number of rows displayed in round (pilot)
+100030,Pairs matching,398,Number of correct matches in round
+100030,Pairs matching,10136,Number of correct matches in round (pilot)
+100028,Lights pattern memory,10142,Number of columns displayed (pilot)
+100028,Lights pattern memory,10143,Number of rows displayed (pilot)
+100028,Lights pattern memory,10145,Pattern of lights displayed (pilot)
+100028,Lights pattern memory,10146,Pattern of lights as remembered (pilot)
+100028,Lights pattern memory,10144,Time taken to complete lights test (pilot)
+100077,Word production,10612,Number of words beginning with 'S' (pilot)
+100077,Word production,10610,Word count (pilot)
+100077,Word production,10609,Words answer array (pilot)
+100032,Reaction time,20023,Mean time to correctly identify matches
+100032,Reaction time,401,Index for card A in round
+100032,Reaction time,10139,Index for card A in round (pilot)
+100032,Reaction time,402,Index for card B in round
+100032,Reaction time,10140,Index for card B in round (pilot)
+100032,Reaction time,403,Number of times snap-button pressed
+100032,Reaction time,10141,Number of times snap-button pressed (pilot)
+100032,Reaction time,404,Duration to first press of snap-button in each round
+100032,Reaction time,10147,Duration to first press of snap-button in each round (pilot)
+100029,Numeric memory,4281,Completion status of numeric memory test
+100029,Numeric memory,4283,Number of rounds of numeric memory test performed
+100029,Numeric memory,4260,Round of numeric memory test
+100029,Numeric memory,4250,Number of digits to be memorised/recalled
+100029,Numeric memory,4251,Target number to be memorised
+100029,Numeric memory,4252,Target number to be entered
+100029,Numeric memory,4258,Number entered by participant
+100029,Numeric memory,4253,Time number displayed for
+100029,Numeric memory,4259,Digits entered correctly
+100029,Numeric memory,4282,Maximum digits remembered correctly
+100029,Numeric memory,4254,Time first key touched
+100029,Numeric memory,4255,Time last key touched
+100029,Numeric memory,4256,Time elapsed
+100029,Numeric memory,4257,Keystroke history
+100029,Numeric memory,4285,Time to complete test
+100027,Fluid intelligence / reasoning,20016,Fluid intelligence score
+100027,Fluid intelligence / reasoning,20128,Number of fluid intelligence questions attempted within time limit
+100027,Fluid intelligence / reasoning,4924,Attempted fluid intelligence (FI) test.
+100027,Fluid intelligence / reasoning,4935,FI1 : numeric addition test
+100027,Fluid intelligence / reasoning,4946,FI2 : identify largest number
+100027,Fluid intelligence / reasoning,4957,FI3 : word interpolation
+100027,Fluid intelligence / reasoning,4968,FI4 : positional arithmetic
+100027,Fluid intelligence / reasoning,4979,FI5 : family relationship calculation
+100027,Fluid intelligence / reasoning,4990,FI6 : conditional arithmetic
+100027,Fluid intelligence / reasoning,5001,FI7 : synonym
+100027,Fluid intelligence / reasoning,5012,FI8 : chained arithmetic
+100027,Fluid intelligence / reasoning,5556,FI9 : concept interpolation
+100027,Fluid intelligence / reasoning,5699,FI10 : arithmetic sequence recognition
+100027,Fluid intelligence / reasoning,5779,FI11 : antonym
+100027,Fluid intelligence / reasoning,5790,FI12 : square sequence recognition
+100027,Fluid intelligence / reasoning,5866,FI13 : subset inclusion logic
+100027,Fluid intelligence / reasoning,4936,FI1 : duration viewed
+100027,Fluid intelligence / reasoning,4947,FI2 : duration viewed
+100027,Fluid intelligence / reasoning,4958,FI3 : duration viewed
+100027,Fluid intelligence / reasoning,4969,FI4 : duration viewed
+100027,Fluid intelligence / reasoning,4980,FI5 : duration viewed
+100027,Fluid intelligence / reasoning,4991,FI6 : duration viewed
+100027,Fluid intelligence / reasoning,5002,FI7 : duration viewed
+100027,Fluid intelligence / reasoning,5013,FI8 : duration viewed
+100027,Fluid intelligence / reasoning,5557,FI9 : duration viewed
+100027,Fluid intelligence / reasoning,5700,FI10 : duration viewed
+100027,Fluid intelligence / reasoning,5780,FI11 : duration viewed
+100027,Fluid intelligence / reasoning,5791,FI12 : duration viewed
+100027,Fluid intelligence / reasoning,5867,FI13 : duration viewed
+505,Trail making,6348,Duration to complete numeric path (trail #1)
+505,Trail making,6350,Duration to complete alphanumeric path (trail #2)
+505,Trail making,6349,Total errors traversing numeric path (trail #1)
+505,Trail making,6351,Total errors traversing alphanumeric path (trail #2)
+505,Trail making,6772,Interval between previous point and current one in numeric path (trail #1)
+505,Trail making,6773,Interval between previous point and current one in alphanumeric path (trail #2)
+505,Trail making,6770,Errors before selecting correct item in numeric path (trail #1)
+505,Trail making,6771,Errors before selecting correct item in alphanumeric path (trail #2)
+501,Matrix pattern completion,6373,Number of puzzles correctly solved
+501,Matrix pattern completion,6374,Number of puzzles viewed
+501,Matrix pattern completion,6332,Item selected for each puzzle
+501,Matrix pattern completion,6333,Duration spent answering each puzzle
+502,Symbol digit substitution,6325,Duration to entering symbol choice
+502,Symbol digit substitution,23323,Number of symbol digit matches attempted
+502,Symbol digit substitution,23324,Number of symbol digit matches made correctly
+502,Symbol digit substitution,6362,First code array presented
+502,Symbol digit substitution,23321,Values wanted
+502,Symbol digit substitution,23322,Values entered
+1358,Broken letter recognition,20139,Number of letters correctly identified
+1358,Broken letter recognition,20141,Position of first letter not identified
+1358,Broken letter recognition,7677,Reason test concluded
+1358,Broken letter recognition,7670,Letter displayed to participant
+1358,Broken letter recognition,7671,Letter selected by participant
+1358,Broken letter recognition,7678,Total duration of test
+1358,Broken letter recognition,7673,Duration between presenting an image and participant making selection
+1358,Broken letter recognition,7674,Duration between presenting an image and participant pressing Next button
+1358,Broken letter recognition,7672,History of actions performed
+1358,Broken letter recognition,7669,Image displayed
+1358,Broken letter recognition,7676,Number of letters displayed
+504,Picture vocabulary,26302,Specific cognitive ability (AS)
+504,Picture vocabulary,26306,Response delay interval
+504,Picture vocabulary,6364,Vocabulary level
+504,Picture vocabulary,6365,Uncertainty in vocabulary level
+504,Picture vocabulary,6314,Word/picture group used for each round
+504,Picture vocabulary,6315,Picture selected for each round
+504,Picture vocabulary,6317,Duration of selection in each round
+503,Tower rearranging,21004,Number of puzzles correct
+503,Tower rearranging,6383,Number of puzzles attempted
+503,Tower rearranging,6312,Value entered
+503,Tower rearranging,6313,Duration to entering selection
+506,Paired associate learning,20197,Number of word pairs correctly associated
+506,Paired associate learning,6448,"Word associated with ""huge"""
+506,Paired associate learning,6459,"Word associated with ""happy"""
+506,Paired associate learning,6470,"Word associated with ""tattered"""
+506,Paired associate learning,6481,"Word associated with ""old"""
+506,Paired associate learning,6492,"Word associated with ""long"""
+506,Paired associate learning,6503,"Word associated with ""red"""
+506,Paired associate learning,6514,"Word associated with ""sulking"""
+506,Paired associate learning,6525,"Word associated with ""pretty"""
+506,Paired associate learning,6536,"Word associated with ""tiny"""
+506,Paired associate learning,6547,"Word associated with ""new"""
+100031,Prospective memory,20018,Prospective memory result
+100031,Prospective memory,4287,Test completion status
+100031,Prospective memory,4292,PM: initial answer
+100031,Prospective memory,4293,PM: final answer
+100031,Prospective memory,4294,Final attempt correct
+100031,Prospective memory,4291,Number of attempts
+100031,Prospective memory,4295,History of attempts
+100031,Prospective memory,4290,Duration screen displayed
+100031,Prospective memory,4286,Time when initial screen shown
+100031,Prospective memory,4288,Time to answer
+100031,Prospective memory,4289,Time screen exited
+100030,Pairs matching,399,Number of incorrect matches in round
+100030,Pairs matching,10137,Number of incorrect matches in round (pilot)
+100030,Pairs matching,400,Time to complete round
+100030,Pairs matching,10138,Time to complete round (pilot)
+100030,Pairs matching,6334,Screen layout
+100030,Pairs matching,396,Number of columns displayed in round
+100030,Pairs matching,10133,Number of columns displayed in round (pilot)
+100030,Pairs matching,397,Number of rows displayed in round
+100030,Pairs matching,10134,Number of rows displayed in round (pilot)
+100030,Pairs matching,398,Number of correct matches in round
+100030,Pairs matching,10136,Number of correct matches in round (pilot)
+100028,Lights pattern memory,10142,Number of columns displayed (pilot)
+100028,Lights pattern memory,10143,Number of rows displayed (pilot)
+100028,Lights pattern memory,10145,Pattern of lights displayed (pilot)
+100028,Lights pattern memory,10146,Pattern of lights as remembered (pilot)
+100028,Lights pattern memory,10144,Time taken to complete lights test (pilot)
+100077,Word production,10612,Number of words beginning with 'S' (pilot)
+100077,Word production,10610,Word count (pilot)
+100077,Word production,10609,Words answer array (pilot)
